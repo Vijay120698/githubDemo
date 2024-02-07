@@ -28,8 +28,6 @@ public class weeky
             default:System.out.println(ch+" sunday:");
 
 
-
-
         }
     }
 }
