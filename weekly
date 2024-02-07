@@ -29,5 +29,6 @@ public class weeky
 
 
         }
+            System.out.println("******************* the end******************");
     }
 }
